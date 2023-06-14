@@ -1,0 +1,3 @@
+echo "************* Pre-Assemble **************"
+exec /usr/local/s2i/assemble.sh
+echo "************* Post-Assemble **************"
