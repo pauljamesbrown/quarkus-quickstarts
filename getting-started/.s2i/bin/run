@@ -1,0 +1,3 @@
+echo "************* Pre-Run **************"
+exec /usr/local/s2i/run.sh
+echo "************* Post-Run **************"
